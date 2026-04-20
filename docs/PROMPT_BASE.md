@@ -183,3 +183,11 @@ Completado
 - ❌ Llamar a `fetch()` directamente desde el código de una página
 - ❌ Acceder a un Repository desde otro Service directamente
 - ❌ Modificar código de tickets anteriores sin justificación explícita
+
+---
+
+## 9. Control de versiones
+
+- Repositorio: https://github.com/IkerAlonso6/bakery-management
+- Rama activa: sprint-1
+- Al terminar cada ticket: hacer commit con el mensaje `TICKET_ID - Nombre del ticket` y push a origin.
