@@ -189,5 +189,5 @@ Completado
 ## 9. Control de versiones
 
 - Repositorio: https://github.com/IkerAlonso6/bakery-management
-- Rama activa: sprint-1
+- Rama activa: sprint-2
 - Al terminar cada ticket: hacer commit con el mensaje `TICKET_ID - Nombre del ticket` y push a origin.
